@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/namann5/LeetCode/tree/master/0704-binary-search) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/namann5/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/namann5/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/namann5/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/namann5/LeetCode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
