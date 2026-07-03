@@ -9,7 +9,7 @@ class Solution {
         }
     }
     public int[] topKFrequent(int[] nums, int k) {
-        int n = nums.length;
+        
 
         PriorityQueue <Pair> pq = new PriorityQueue<>((a,b) -> a.freq -  b.freq);
 
@@ -20,13 +20,10 @@ class Solution {
         }
 
         for(int x : map.keySet()){
-            int ele = x;
-            int freq = map.get(x);
-
-           Pair cur = new Pair(ele,freq);
+           Pair cur = new Pair(x, map.get(x));
 
             if(pq.size() < k){
-                pq.add(cur);
+                pq.offer(cur);
             }
             else if(cur.freq > pq.peek().freq){
                 pq.poll();
