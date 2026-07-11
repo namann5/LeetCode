@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/namann5/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/namann5/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0226-invert-binary-tree](https://github.com/namann5/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/namann5/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/namann5/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/namann5/LeetCode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/namann5/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/namann5/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/namann5/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
@@ -250,8 +252,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/namann5/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/namann5/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0226-invert-binary-tree](https://github.com/namann5/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/namann5/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/namann5/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/namann5/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/namann5/LeetCode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
