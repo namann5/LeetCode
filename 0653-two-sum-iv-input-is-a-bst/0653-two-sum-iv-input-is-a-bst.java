@@ -14,72 +14,17 @@
  * }
  */
 class Solution {
+     HashSet <Integer> set = new HashSet<>();
     public boolean findTarget(TreeNode root, int k) {
+       
+
         if(root == null) return false;
 
-          Stack<TreeNode> asc = new Stack<>();
-         Stack<TreeNode> dsc = new Stack<>();
-
-
-        TreeNode t = root;
-        while(t != null){
-            asc.push(t);
-            t = t.left;
+        if(set.contains(k-root.val)){
+            return true;
         }
+        set.add(root.val);
 
-       t= root;
-        while(t!= null){
-            dsc.push(t);
-            t = t.right;
-        }
-
-        TreeNode i = getSmall(root,asc);
-        TreeNode j = getBig(root,dsc);
-
-        while(i != null && j != null && i != j && i.val <= j.val ){
-            int sum = i.val + j.val;
-            if(sum == k) return true;
-
-            if(sum > k){
-                j= getBig(root,dsc);
-            }else {
-                i= getSmall(root,asc);
-            }
-        }
-        return false;
-
-
-
-
+        return findTarget(root.left,k) || findTarget(root.right,k);
     }
-    TreeNode getSmall(TreeNode root, Stack<TreeNode> asc){
-        if(asc.isEmpty()){
-            return null;
-        }
-
-        TreeNode small = asc.peek();
-        asc.pop();
-
-        TreeNode rightChild = small.right;
-        while(rightChild != null){
-            asc.push(rightChild);
-            rightChild = rightChild.left;
-        }
-        return small;
-    }
-
-    TreeNode getBig(TreeNode root, Stack<TreeNode> dsc){
-        if(dsc.isEmpty()) return null;
-
-        TreeNode big = dsc.peek();
-        dsc.pop();
-
-        TreeNode leftChild = big.left;
-        while(leftChild != null){
-            dsc.push(leftChild);
-            leftChild = leftChild.right;
-        }
-        return big;
-    }
-
 }
