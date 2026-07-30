@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/namann5/LeetCode/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/namann5/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/namann5/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/namann5/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/namann5/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/namann5/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/namann5/LeetCode/tree/master/0767-reorganize-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/namann5/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/namann5/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/namann5/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/namann5/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Matrix
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/namann5/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/namann5/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/namann5/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/namann5/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/namann5/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/namann5/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/namann5/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
