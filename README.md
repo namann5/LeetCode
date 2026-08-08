@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/namann5/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/namann5/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/namann5/LeetCode/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/namann5/LeetCode/tree/master/0494-target-sum) |
 | [0621-task-scheduler](https://github.com/namann5/LeetCode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/namann5/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/namann5/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/namann5/LeetCode/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/namann5/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/namann5/LeetCode/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/namann5/LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/namann5/LeetCode/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/namann5/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/namann5/LeetCode/tree/master/0877-stone-game) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/namann5/LeetCode/tree/master/0039-combination-sum) |
 | [0093-restore-ip-addresses](https://github.com/namann5/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/namann5/LeetCode/tree/master/0113-path-sum-ii) |
+| [0494-target-sum](https://github.com/namann5/LeetCode/tree/master/0494-target-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/namann5/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
 |  |
@@ -479,8 +482,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/namann5/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/namann5/LeetCode/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/namann5/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/namann5/LeetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
