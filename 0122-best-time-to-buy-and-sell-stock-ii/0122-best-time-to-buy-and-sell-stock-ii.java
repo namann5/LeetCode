@@ -6,42 +6,21 @@ class Solution {
 
         int[][] dp = new int[n + 1][k + 1];
 
-        for (int i = 0; i < n; i++) {
-            Arrays.fill(dp[i], -1);
+        for (int i = n - 1; i >= 0; i--) {
+
+            // k = 1 -> sell
+            int sell = prices[i] + dp[i + 1][2];
+            int skipSell = dp[i + 1][1];
+
+            dp[i][1] = Math.max(sell, skipSell);
+
+            // k = 2 -> buy
+            int buy = -prices[i] + dp[i + 1][1];
+            int skipBuy = dp[i + 1][2];
+
+            dp[i][2] = Math.max(buy, skipBuy);
         }
 
-        return fun(prices, n, 0, k, dp);
-    }
-
-    int fun(int[] a, int n, int i, int k, int[][] dp) {
-
-        if (i == n || k == 0) {
-            return 0;
-        }
-
-        if (dp[i][k] != -1) {
-            return dp[i][k];
-        }
-
-        if (k == 2) {
-
-            // Buy
-            int c1 = fun(a, n, i + 1, k-1, dp) - a[i];
-
-            // Skip
-            int c2 = fun(a, n, i + 1, k, dp);
-
-            return dp[i][k] = Math.max(c1, c2);
-
-        } else {
-
-            // Sell
-            int c1 = fun(a, n, i + 1, 2, dp) + a[i];
-
-            // Skip
-            int c2 = fun(a, n, i + 1, k, dp);
-
-            return dp[i][k] = Math.max(c1, c2);
-        }
+        return dp[0][2];
     }
 }
