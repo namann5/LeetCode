@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/namann5/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/namann5/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/namann5/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [1652-defuse-the-bomb](https://github.com/namann5/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/namann5/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/namann5/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/namann5/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1652-defuse-the-bomb](https://github.com/namann5/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/namann5/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/namann5/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Ordered Set
