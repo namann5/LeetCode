@@ -1,37 +1,20 @@
 class Solution {
     public List<String> generateParenthesis(int n) {
-        List <String> res =  new ArrayList<>();
-
-        int open =0;
-        int close =0;
-
-        StringBuilder sb = new StringBuilder();
-
-            fun(res,sb,open,close,n);
-            return res;
+        List<String> ans = new ArrayList<>();
+        backtracking(ans,"",0,0,n);
+        return ans;
 
     }
-
-    private void fun(List<String> res , StringBuilder sb , int open, int close , int n){
-
-        if(open == n && close == n){
-            res.add(sb.toString());
+    public void backtracking(List<String> ans,String cur,int open,int close,int max){
+        if(cur.length() == max * 2){
+            ans.add(cur);
             return;
         }
-
-        // open
-        if(open < n){
-            sb.append('(');
-            fun(res,sb,open+1,close,n);
-            sb.deleteCharAt(sb.length() -1);
+        if(open<max){
+            backtracking(ans,cur + "(",open+1,close,max);
         }
-
-        //close 
-        if(close < open){
-            sb.append(')');
-            fun(res,sb,open,close +1,n);
-            sb.deleteCharAt(sb.length() -1);
+        if(close<open){
+            backtracking(ans,cur +")",open,close+1,max);
         }
-
     }
 }
