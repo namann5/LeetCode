@@ -3,7 +3,7 @@ class Solution {
         int n = temperatures.length;
         int[] res = new int[n];
 
-        Stack <Integer> st = new Stack<>();
+        Deque<Integer> st = new ArrayDeque<>();
         st.push(0);
 
         for(int i=1;i<n;i++){
