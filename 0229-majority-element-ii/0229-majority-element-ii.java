@@ -1,16 +1,13 @@
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
+
         List<Integer> ans = new ArrayList<>();
 
-        int c1 = 0;
-        int c2 = 1;
+        int c1 = 0, c2 = 1;
+        int count1 = 0, count2 = 0;
 
-        int count1 = 0;
-        int count2 = 0;
-
-        
-        for (int i = 0; i < nums.length; i++) {
-            int num = nums[i];
+      
+        for (int num : nums) {
 
             if (num == c1) {
                 count1++;
@@ -32,21 +29,13 @@ class Solution {
             }
         }
 
-        
         count1 = 0;
         count2 = 0;
 
-        for (int i = 0; i < nums.length; i++) {
-
-            if (nums[i] == c1) {
-                count1++;
-            }
-            else if (nums[i] == c2) {
-                count2++;
-            }
+        for (int num : nums) {
+            if (num == c1) count1++;
+            if (num == c2) count2++;
         }
-
-        
 
         if (count1 > nums.length / 3) {
             ans.add(c1);
