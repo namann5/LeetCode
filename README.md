@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/namann5/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/namann5/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/namann5/LeetCode/tree/master/0767-reorganize-string) |
+| [0771-jewels-and-stones](https://github.com/namann5/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/namann5/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/namann5/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/namann5/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/namann5/LeetCode/tree/master/0127-word-ladder) |
 | [0692-top-k-frequent-words](https://github.com/namann5/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/namann5/LeetCode/tree/master/0767-reorganize-string) |
+| [0771-jewels-and-stones](https://github.com/namann5/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1143-longest-common-subsequence](https://github.com/namann5/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1927-sum-game](https://github.com/namann5/LeetCode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/namann5/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
