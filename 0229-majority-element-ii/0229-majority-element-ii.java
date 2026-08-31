@@ -33,8 +33,10 @@ class Solution {
         count2 = 0;
 
         for (int num : nums) {
-            if (num == c1) count1++;
-            if (num == c2) count2++;
+            if (num == c1) 
+            count1++;
+            if (num == c2) 
+            count2++;
         }
 
         if (count1 > nums.length / 3) {
