@@ -15,33 +15,21 @@
  */
 class Solution {
     public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
-        List<List<Integer>> res = new ArrayList<>();
-        List<Integer> dairy = new ArrayList<>();
-        fun(root,0,targetSum,dairy,res);
+        List <List<Integer>> res = new ArrayList<>();
+        dfs(root,targetSum, new ArrayList<>(), res);
         return res;
-
     }
 
-    private void fun(TreeNode root, int sum ,int targetSum, List<Integer> dairy, List<List<Integer>>res){
-        if(root == null){
-            return; 
-        }
-
-        
-        sum = sum + root.val;
+    private void dfs(TreeNode root, int remain, List<Integer> dairy, List<List<Integer>>res){
+        if(root == null) return;
         dairy.add(root.val);
 
-        if(root.left == null && root.right == null){
-            if(sum == targetSum){
-                res.add(new ArrayList<>(dairy));
-                dairy.remove(dairy.size() -1);
-                return;
-            }
+        if(root.left == null && root.right == null && remain == root.val){
+            res.add(new ArrayList<>(dairy));
+        }else {
+            dfs(root.left, remain - root.val, dairy, res);
+            dfs(root.right, remain - root.val, dairy, res);
         }
-
-        fun(root.left,sum,targetSum,dairy,res);
-        fun(root.right,sum,targetSum,dairy,res);
-        dairy.remove(dairy.size()-1);
-        return;
+        dairy.remove(dairy.size() -1);
     }
 }
