@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/namann5/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/namann5/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/namann5/LeetCode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/namann5/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/namann5/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/namann5/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/namann5/LeetCode/tree/master/0455-assign-cookies) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/namann5/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/namann5/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/namann5/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/namann5/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/namann5/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/namann5/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/namann5/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/namann5/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/namann5/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/namann5/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/namann5/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -695,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/namann5/LeetCode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/namann5/LeetCode/tree/master/0455-assign-cookies) |
 ## Manacher
 |  |
@@ -730,4 +734,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/namann5/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/namann5/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
