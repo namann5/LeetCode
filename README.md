@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/namann5/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/namann5/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/namann5/LeetCode/tree/master/0061-rotate-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/namann5/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/namann5/LeetCode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/namann5/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/namann5/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/namann5/LeetCode/tree/master/0231-power-of-two) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/namann5/LeetCode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/namann5/LeetCode/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/namann5/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/namann5/LeetCode/tree/master/0509-fibonacci-number) |
