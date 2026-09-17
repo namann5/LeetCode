@@ -16,7 +16,7 @@ class Solution {
         for (int right = 0; right < n; right++) {
 
             sum += arr[right];
-
+        //sliding window approach
             while (sum > target) {
                 sum -= arr[left];
                 left++;
