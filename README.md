@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/namann5/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1652-defuse-the-bomb](https://github.com/namann5/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/namann5/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/namann5/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/namann5/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/namann5/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/namann5/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/namann5/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/namann5/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/namann5/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/namann5/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/namann5/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/namann5/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/namann5/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/namann5/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/namann5/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1544-make-the-string-great](https://github.com/namann5/LeetCode/tree/master/1544-make-the-string-great) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/namann5/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/namann5/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/namann5/LeetCode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/namann5/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
