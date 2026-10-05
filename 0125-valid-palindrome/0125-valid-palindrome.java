@@ -2,6 +2,15 @@ class Solution {
     public boolean isPalindrome(String s) {
         int  i=0;
         int j = s.length() -1;
+        /*
+        s = ans sna
+        i , j (alpha numeric check)
+        left = a;
+        right = a;
+
+        TC : O(n);
+        SC : O(1);
+        */
          while(i<j){
             char left = s.charAt(i);
             char right = s.charAt(j);
