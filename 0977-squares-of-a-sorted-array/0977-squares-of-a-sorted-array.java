@@ -12,7 +12,10 @@ class Solution {
         i+1
                     j-1
         [0,1,4,9,16]
-                  k-1             
+                  k-1  
+
+        TC : O(n);
+        SC = O(1);           
          */
 
         while( i<= j){
