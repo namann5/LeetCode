@@ -10,6 +10,7 @@ class Solution {
             if(fast == 1){
                 return true;
             }
+
             if(slow == fast){
                 return false;
             }
@@ -18,16 +19,12 @@ class Solution {
     }
 
     public int sum(int n){
-        int sum = 0;
-        //36 /10 = 3--> 0;
-        //digit = 3;
-        // %10 = 6
+        int sum =0;
 
-        while(n > 0){
-            int digit = n % 10;
-            sum = sum + (digit * digit);
+        while(n>0){
+            int dight = n % 10;
+            sum = sum + (dight*dight);
             n = n/10;
-
         }
         return sum;
     }
