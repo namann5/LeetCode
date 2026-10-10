@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/namann5/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/namann5/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/namann5/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/namann5/LeetCode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/namann5/LeetCode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/namann5/LeetCode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/namann5/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/namann5/LeetCode/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/namann5/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/namann5/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/namann5/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/namann5/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/namann5/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/namann5/LeetCode/tree/master/0242-valid-anagram) |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/namann5/LeetCode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/namann5/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/namann5/LeetCode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/namann5/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/namann5/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/namann5/LeetCode/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/namann5/LeetCode/tree/master/0486-predict-the-winner) |
@@ -875,4 +878,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/namann5/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/namann5/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
