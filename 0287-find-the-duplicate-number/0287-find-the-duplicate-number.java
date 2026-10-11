@@ -5,6 +5,8 @@ class Solution {
 
         // 1 2 2 2 2 --> 5
         // n=4
+
+        //TC : O(n), SC : O(n);
         Set <Integer> set = new HashSet<>();
         for(int num : nums){
         if(set.contains(num)){
