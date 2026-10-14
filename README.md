@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/namann5/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/namann5/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/namann5/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/namann5/LeetCode/tree/master/0389-find-the-difference) |
 | [0457-circular-array-loop](https://github.com/namann5/LeetCode/tree/master/0457-circular-array-loop) |
 | [0621-task-scheduler](https://github.com/namann5/LeetCode/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/namann5/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/namann5/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/namann5/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/namann5/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/namann5/LeetCode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/namann5/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/namann5/LeetCode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/namann5/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/namann5/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/namann5/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/namann5/LeetCode/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/namann5/LeetCode/tree/master/0389-find-the-difference) |
 | [0678-valid-parenthesis-string](https://github.com/namann5/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/namann5/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/namann5/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -731,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/namann5/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/namann5/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/namann5/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/namann5/LeetCode/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/namann5/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/namann5/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/namann5/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
