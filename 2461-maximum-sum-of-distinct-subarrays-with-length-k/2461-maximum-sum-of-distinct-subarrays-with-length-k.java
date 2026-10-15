@@ -1,3 +1,5 @@
+//TC and SC = O(n); worst case for SC
+
 class Solution {
     public long maximumSubarraySum(int[] nums, int k) {
         int n = nums.length;
