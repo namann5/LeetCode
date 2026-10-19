@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/namann5/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/namann5/LeetCode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/namann5/LeetCode/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/namann5/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/namann5/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/namann5/LeetCode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/namann5/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/namann5/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/namann5/LeetCode/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/namann5/LeetCode/tree/master/0771-jewels-and-stones) |
+| [0904-fruit-into-baskets](https://github.com/namann5/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1096-brace-expansion-ii](https://github.com/namann5/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/namann5/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/namann5/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -875,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/namann5/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/namann5/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/namann5/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0904-fruit-into-baskets](https://github.com/namann5/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/namann5/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1652-defuse-the-bomb](https://github.com/namann5/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/namann5/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
