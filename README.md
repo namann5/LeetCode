@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/namann5/LeetCode/tree/master/0457-circular-array-loop) |
 | [0486-predict-the-winner](https://github.com/namann5/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/namann5/LeetCode/tree/master/0494-target-sum) |
+| [0500-keyboard-row](https://github.com/namann5/LeetCode/tree/master/0500-keyboard-row) |
 | [0621-task-scheduler](https://github.com/namann5/LeetCode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/namann5/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/namann5/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/namann5/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/namann5/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0457-circular-array-loop](https://github.com/namann5/LeetCode/tree/master/0457-circular-array-loop) |
+| [0500-keyboard-row](https://github.com/namann5/LeetCode/tree/master/0500-keyboard-row) |
 | [0621-task-scheduler](https://github.com/namann5/LeetCode/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/namann5/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/namann5/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/namann5/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/namann5/LeetCode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/namann5/LeetCode/tree/master/0389-find-the-difference) |
+| [0500-keyboard-row](https://github.com/namann5/LeetCode/tree/master/0500-keyboard-row) |
 | [0678-valid-parenthesis-string](https://github.com/namann5/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/namann5/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/namann5/LeetCode/tree/master/0692-top-k-frequent-words) |
