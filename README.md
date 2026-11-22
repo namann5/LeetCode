@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/namann5/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/namann5/LeetCode/tree/master/0494-target-sum) |
 | [0500-keyboard-row](https://github.com/namann5/LeetCode/tree/master/0500-keyboard-row) |
+| [0566-reshape-the-matrix](https://github.com/namann5/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0621-task-scheduler](https://github.com/namann5/LeetCode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/namann5/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/namann5/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/namann5/LeetCode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/namann5/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/namann5/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0566-reshape-the-matrix](https://github.com/namann5/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0835-image-overlap](https://github.com/namann5/LeetCode/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/namann5/LeetCode/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/namann5/LeetCode/tree/master/1254-number-of-closed-islands) |
@@ -896,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/namann5/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/namann5/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/namann5/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2390-removing-stars-from-a-string](https://github.com/namann5/LeetCode/tree/master/2390-removing-stars-from-a-string) |
